@@ -1,0 +1,29 @@
+button{
+    float: center;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #c3d8e2 ;
+}
+body{
+    background-color: #eeeff3 ;
+}
+#d1, #risultato{ 
+    border-radius: 10px;
+    border-color: #565656 ;
+    background-color: #eeeff3 ;
+    margin: 15px;
+    width: 500px;
+    height: 40px;
+}
+#binario, #esadecimale, #ottale{
+    border-color: #565656 ;
+    background-color: #eeeff3 ;
+}
+div{
+    width: 500px;
+    height: 40px;
+}
+label,p{
+    color: #565656;
+}
